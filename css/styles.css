@@ -6,13 +6,13 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: cursive, handwriting;
-    background-color: #fde353;
-    color: #381a09;
+    background-color: #ffca61;
+    color: #ffffff;
 }
 
 header {
-    background-color: #47341c;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgb(255, 166, 0);
     padding: 20px;
 }
 
