@@ -137,3 +137,7 @@ img {
     width: 160px;
     border-radius:  50%;
 }
+img {
+    height: 100;
+    width: 200;
+}
